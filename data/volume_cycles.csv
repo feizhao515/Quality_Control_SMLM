@@ -1,0 +1,32 @@
+0,1,2,3,4
+,,,,
+"0    0.05663
+Name:  volumeAlpha, dtype: float64","5    0.07339
+Name:  volumeAlpha, dtype: float64","10    0.094497
+Name:  volumeAlpha, dtype: float64","15    0.103919
+Name:  volumeAlpha, dtype: float64","20    0.10896
+Name:  volumeAlpha, dtype: float64"
+"1    0.051824
+Name:  volumeAlpha, dtype: float64","6    0.058513
+Name:  volumeAlpha, dtype: float64","11    0.069893
+Name:  volumeAlpha, dtype: float64","16    0.07585
+Name:  volumeAlpha, dtype: float64","21    0.077776
+Name:  volumeAlpha, dtype: float64"
+"2    0.046113
+Name:  volumeAlpha, dtype: float64","7    0.050235
+Name:  volumeAlpha, dtype: float64","12    0.053214
+Name:  volumeAlpha, dtype: float64","17    0.06935
+Name:  volumeAlpha, dtype: float64","22    0.078166
+Name:  volumeAlpha, dtype: float64"
+"3    0.038039
+Name:  volumeAlpha, dtype: float64","8    0.04851
+Name:  volumeAlpha, dtype: float64","13    0.060198
+Name:  volumeAlpha, dtype: float64","18    0.054174
+Name:  volumeAlpha, dtype: float64","23    0.062891
+Name:  volumeAlpha, dtype: float64"
+"4    0.021597
+Name:  volumeAlpha, dtype: float64","9    0.031255
+Name:  volumeAlpha, dtype: float64","14    0.038675
+Name:  volumeAlpha, dtype: float64","19    0.041429
+Name:  volumeAlpha, dtype: float64","24    0.043814
+Name:  volumeAlpha, dtype: float64"
